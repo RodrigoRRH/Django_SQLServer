@@ -1,0 +1,14 @@
+th,
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+body{
+    padding: 0%;
+    background-color:#efefef
+}
+
+a, a:hover{
+    color:#333
+}
